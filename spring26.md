@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Taylor Welson](https://github.com/tayjay042) - Student, Software Dev Program, likes video games
